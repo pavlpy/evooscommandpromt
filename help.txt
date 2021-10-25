@@ -1,0 +1,7 @@
+You can use this commands:
+setvalue - gives the value of variable;
+logout - logout of your account;
+cls - clean the screen;
+calc - opens calculator;
+game - open game;
+open - starts your file;
